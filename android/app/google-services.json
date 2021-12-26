@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "369413322614",
+    "project_id": "pemesanan-b0b01",
+    "storage_bucket": "pemesanan-b0b01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:369413322614:android:8a5143ef90ffc54e386c57",
+        "android_client_info": {
+          "package_name": "com.example.pemesanan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "369413322614-g428pg7628d7v0h905pmu4fk63hnp07o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pemesanan",
+            "certificate_hash": "ee118e2886540a93a3d7aca40de47e17315d1877"
+          }
+        },
+        {
+          "client_id": "369413322614-o9qisno5024ubf6quhdg3l1dgn8feru5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmUikNBPgYKuJhm_IwgeWCjxMOVnoAMPc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "369413322614-o9qisno5024ubf6quhdg3l1dgn8feru5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
